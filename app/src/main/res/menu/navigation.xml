@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_approaches"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/title_approaches" />
+
+    <item
+        android:id="@+id/navigation_fate"
+        android:icon="@drawable/ic_games_black_24dp"
+        android:title="@string/title_fate" />
+
+    <item
+        android:id="@+id/navigation_consequence"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="@string/title_consequences" />
+
+    <item
+        android:id="@+id/navigation_stunts"
+        android:icon="@drawable/ic_whatshot_black_24dp"
+        android:title="@string/title_stunts" />
+
+</menu>
